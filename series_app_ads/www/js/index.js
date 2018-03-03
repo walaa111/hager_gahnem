@@ -72,7 +72,7 @@ initAd();
     
 };
 $('body').on('click','.app',function(){
-    alert('d');
+    //alert('d');
 showBannerFunc();
 showInterstitialFunc();
 
